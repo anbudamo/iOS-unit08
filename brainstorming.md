@@ -1,5 +1,3 @@
-Hackmd document: "https://hackmd.io/@LOnAnxqaRemJMbnCP5OEog/SkU2FQD7p"
-
 App ideas- brainstorming
 
 1. Workout app
@@ -74,5 +72,3 @@ Top three
   advanced features and challenge myself
   
 **Final idea: Workout Tracker App!**
-
-
