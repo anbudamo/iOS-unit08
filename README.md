@@ -89,6 +89,12 @@ calendar, creation, stream, detail
 
 ### Models
 
+### Week 8 progress
+
+I worked on actually developing my app after the brainstorming activity. I created a basic form of the homepage, with the app banner,
+a start button for the workout, and date/time that updates with the current time. The main challenge I faced was with starting the app 
+as I worried I hadn't done enough planning to execute my ideas. After I started developing it was smooth sailing.
+
 [Add table of models]
 
 ### Networking
